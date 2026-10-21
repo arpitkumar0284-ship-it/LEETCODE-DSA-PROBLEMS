@@ -8,11 +8,13 @@ My Leetcode solved problems
 | ------- |
 | [0709-to-lower-case](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0917-reverse-only-letters) |
+| [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
 ## Array
 |  |
 | ------- |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
