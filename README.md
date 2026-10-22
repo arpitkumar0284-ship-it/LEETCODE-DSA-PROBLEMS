@@ -17,10 +17,12 @@ My Leetcode solved problems
 | [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -49,4 +51,8 @@ My Leetcode solved problems
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Counting
+|  |
+| ------- |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 <!---LeetCode Topics End-->
