@@ -10,15 +10,9 @@ public:
         unordered_set<int> s;
         for(auto x:mp)
         {
-            s.insert(x.second);
+           if(s.find(x.second)!=s.end()) return false;
+           else s.insert(x.second);
         }
-        if(mp.size()==s.size())
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return true;
     }
 };
