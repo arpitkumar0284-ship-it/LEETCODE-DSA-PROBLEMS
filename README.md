@@ -18,6 +18,7 @@ My Leetcode solved problems
 | [1207-unique-number-of-occurrences](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
@@ -54,6 +55,7 @@ My Leetcode solved problems
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -63,6 +65,7 @@ My Leetcode solved problems
 ## Greedy
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
