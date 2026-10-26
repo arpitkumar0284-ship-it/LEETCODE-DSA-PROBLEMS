@@ -16,6 +16,7 @@ My Leetcode solved problems
 | ------- |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
 | [1207-unique-number-of-occurrences](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2126-destroying-asteroids) |
@@ -65,6 +66,7 @@ My Leetcode solved problems
 ## Greedy
 |  |
 | ------- |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2126-destroying-asteroids](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
