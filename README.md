@@ -14,6 +14,7 @@ My Leetcode solved problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
 | [1207-unique-number-of-occurrences](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
@@ -63,11 +64,13 @@ My Leetcode solved problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
 | [0917-reverse-only-letters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0917-reverse-only-letters) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2126-destroying-asteroids](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
