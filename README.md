@@ -17,6 +17,7 @@ My Leetcode solved problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
 | [1207-unique-number-of-occurrences](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
@@ -125,4 +126,8 @@ My Leetcode solved problems
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
