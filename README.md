@@ -9,6 +9,7 @@ My Leetcode solved problems
 | [0242-valid-anagram](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0917-reverse-only-letters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2451-odd-string-difference](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2451-odd-string-difference) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -110,6 +111,7 @@ My Leetcode solved problems
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Recursion
@@ -145,4 +147,8 @@ My Leetcode solved problems
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
