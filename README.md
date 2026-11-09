@@ -14,6 +14,7 @@ My Leetcode solved problems
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ My Leetcode solved problems
 | [0917-reverse-only-letters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@ My Leetcode solved problems
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Recursion
 |  |
 | ------- |
