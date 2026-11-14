@@ -24,6 +24,7 @@ My Leetcode solved problems
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
+| [0888-fair-candy-swap](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0888-fair-candy-swap) |
 | [1046-last-stone-weight](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -51,6 +52,7 @@ My Leetcode solved problems
 | ------- |
 | [0242-valid-anagram](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
@@ -74,6 +76,7 @@ My Leetcode solved problems
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
+| [0888-fair-candy-swap](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -83,6 +86,7 @@ My Leetcode solved problems
 | [0242-valid-anagram](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0475-heaters) |
+| [0888-fair-candy-swap](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
