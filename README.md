@@ -38,6 +38,7 @@ My Leetcode solved problems
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2451-odd-string-difference](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2451-odd-string-difference) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2747-count-zero-request-servers) |
@@ -59,6 +60,7 @@ My Leetcode solved problems
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2451-odd-string-difference](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2451-odd-string-difference) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -123,6 +125,7 @@ My Leetcode solved problems
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -132,6 +135,7 @@ My Leetcode solved problems
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Recursion
