@@ -134,6 +134,7 @@ My Leetcode solved problems
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2652-sum-multiples](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2652-sum-multiples) |
