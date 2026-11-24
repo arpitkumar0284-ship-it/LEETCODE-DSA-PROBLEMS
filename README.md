@@ -138,6 +138,7 @@ My Leetcode solved problems
 | [2549-count-distinct-numbers-on-board](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2652-sum-multiples](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3789-minimum-cost-to-acquire-required-items) |
