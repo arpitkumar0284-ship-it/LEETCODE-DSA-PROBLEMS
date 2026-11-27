@@ -19,6 +19,7 @@ My Leetcode solved problems
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
+| [2942-find-words-containing-character](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ My Leetcode solved problems
 | [2747-count-zero-request-servers](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [2788-split-strings-by-separator](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arpitkumar0284-ship-it/LEETCODE-DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
